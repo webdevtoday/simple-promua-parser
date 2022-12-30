@@ -12,7 +12,7 @@ python3 -m venv .venv
 2. Install dependencies
 
 ```sh
-python -m pip install -r requirements.txt
+python -m pip install -r pip-requirements.txt
 ```
 
 3. Start parse
